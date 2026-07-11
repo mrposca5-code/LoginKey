@@ -5,22 +5,4 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7072af295ac887e6",
-        "key": "kolakola",
-        "expirydate": "9-08-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "7072af295ac887e5",
-        "key": "kola9090",
-        "expirydate": "09-08-2026",
-        "Allowoffline": true
-    }
 ]
