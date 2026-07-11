@@ -15,6 +15,6 @@
         "device_id": "7072af295ac887e6",
         "key": "kolakola",
         "expirydate": "9-07-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
